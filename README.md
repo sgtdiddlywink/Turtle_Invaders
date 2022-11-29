@@ -10,6 +10,7 @@ Current list of items that need to be resolved:
 5. Update scoreboard after hitting invader
 6. Remove lives when appropriate
 7. End game when there are no lives left
+8. Have invaders shoot back
 
 BUGS:
 1. The turret's shot is always where at the x location of the turret when the shot hits the top boundary
